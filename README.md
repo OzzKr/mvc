@@ -1,2 +1,2 @@
 # mvc
-mvc
+simple dotnet mvc
